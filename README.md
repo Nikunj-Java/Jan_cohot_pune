@@ -8,3 +8,13 @@ short description of what your project does
 - Feature 2
 - Feature 3
 - Feature 4
+
+## Tech Stack
+- Linux
+- Sql
+- Git
+- Ticketing System
+- Networking
+- Programming Languages
+- Java
+- SpringBoot
