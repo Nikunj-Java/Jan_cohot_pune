@@ -26,3 +26,9 @@ cd repo-name
 npm install
 
 ---
+##Procedure
+- Step:1 Create README.md file
+- Step:2 Move to Your Repository
+- Step:3 commit the changes
+- Step:4 Push to the remote repository
+
